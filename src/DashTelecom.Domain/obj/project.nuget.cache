@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUUKuRcYkdtdtPXDUJKrgmHty+k7zMqA2KU3KkF6T+NfhgwNxLkLedLXu54vp2mmK8HaEwmBMVMdatrnMgFucg==",
+  "success": true,
+  "projectFilePath": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\WebApiAspNetCore3.1\\src\\DashTelecom.Domain\\DashTelecom.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goncalves.fagner\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
